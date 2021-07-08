@@ -17,8 +17,6 @@ int main(){
         sum+=num;
     }
     printf("Total value: %d\n",sum);
-    if(sum>=7) printf("%s won!",str);
-    else printf("%s lose!",str)
 
     return 0;
 }
